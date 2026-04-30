@@ -1,5 +1,6 @@
-Frontend/node_modules/
+Fronten/node_modules/
 Backend/node_modules/
 Node/node_modules/
 .env
 .DS_Store
+
